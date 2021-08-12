@@ -1,0 +1,16 @@
+/* .margin-top {
+    margin-top: 5% !important;
+} */
+
+.heading {
+    margin-bottom: 5% !important;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around !important;
+}
+
+a {
+    text-decoration: none !important;
+}
